@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Confidential 😉**
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Solidity**
 
-- 💬 Ask me about **react , JavaScript**
+- 💬 Ask me about **JavaScript , Next JS**
 
 - 📫 How to reach me **manzarabbas872872@gmail.com**
 
