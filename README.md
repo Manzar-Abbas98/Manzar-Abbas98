@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Confidential 😉**
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **JavaScript , React JS**
 
