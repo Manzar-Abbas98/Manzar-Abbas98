@@ -13,8 +13,7 @@
 - 💼 Currently working as a **Frontend Developer at XtecSoft**
 - 🌍 Based in **Karachi, Pakistan**
 - 🔭 Working on **React & TypeScript-based scalable web apps**
-- 🌱 **Currently learning:** Advanced Frontend Concepts —  
-  *Performance Optimization, React 18 Features (Concurrent Rendering, Suspense), Server Components, State Machines (XState), Advanced TypeScript Patterns, and Micro-Frontend Architecture.*
+- 🌱 Learning **React Native** and exploring advanced front-end performance techniques
 - 💬 Ask me about **React.js, TypeScript, Material UI, Tailwind CSS**
 - 📫 Reach me at **manzarabbas872872@gmail.com**
 - ⚡ Fun fact: **I love turning complex UI ideas into smooth, interactive experiences.**
